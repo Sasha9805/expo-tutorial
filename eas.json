@@ -10,7 +10,10 @@
       "env": {
         "APP_VARIANT": "development"
       },
-      "channel": "development"
+      "channel": "development",
+      "android": {
+        "image": "latest"
+      }
     },
     "preview": {
       "distribution": "internal",
